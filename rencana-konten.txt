@@ -3,3 +3,6 @@ kubernetes
 grafana 
 prometheus
 terraform
+belajar google cloud
+belajar aws
+belajar linux
