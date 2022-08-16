@@ -3,3 +3,7 @@ kubernetes
 grafana 
 prometheus
 terraform
+belajar ansible
+belajar network
+belajar python
+belajar git
